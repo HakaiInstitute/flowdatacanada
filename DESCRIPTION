@@ -1,0 +1,15 @@
+Package: flowdatacanada
+Title: Provide access to spatially dispersed river flow datasets in Canada
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Sam", "Albers", , "sam.albers@hakai.org", role = c("aut", "cre")),
+    person("Hakai Institute", , role = "cph")
+    )
+Description: Provide access to spatially dispersed river flow datasets in Canada through 
+    public APIs and data portals. This package simplifies the process of
+    retrieving, cleaning, and analyzing river flow data for hydrological studies
+    and environmental monitoring.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
