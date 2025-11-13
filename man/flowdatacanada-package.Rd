@@ -8,6 +8,13 @@
 \description{
 Provide access to spatially dispersed river flow datasets in Canada through public APIs and data portals. This package simplifies the process of retrieving, cleaning, and analyzing river flow data for hydrological studies and environmental monitoring.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://hakaiinstitute.github.io/flowdatacanada/}
+}
+
+}
 \author{
 \strong{Maintainer}: Sam Albers \email{sam.albers@hakai.org}
 
